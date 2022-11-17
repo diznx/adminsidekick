@@ -1,0 +1,4 @@
+Create folder
+   name folder
+       copy from master files
+           renaming each file with user's request
